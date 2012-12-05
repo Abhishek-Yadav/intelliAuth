@@ -9,5 +9,5 @@ We plan to upgrade the system by auto-classification of dataset values by using 
 
 There are few good client side fingerprinting solutions available of which I found https://github.com/carlo/jquery-browser-fingerprint to be relatively simple and easy to understand, which I have also drawn ispiration from for my fingerprinting solution.
 
-IntelliAuth.js v1 consists of data values obtained from javascript navigator object. Ref : https://developer.mozilla.org/en-US/docs/DOM/window.navigator
+IntelliAuth.js v1 consists of data values obtained from javascript navigator object and other js objects supported by most of the browsers. Ref : https://developer.mozilla.org/en-US/docs/DOM/window.navigator
 
