@@ -1,4 +1,4 @@
-# Purpose:
+h1. Purpose:
 
 IntelliAuth is an intelligent authentication scheme for web applications that is based on utilizing browser fingerprints to uniquely classify an authorized user from a fraudulent one.
 
