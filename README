@@ -1,8 +1,8 @@
-h1. Purpose:
+Purpose:
 
 IntelliAuth is an intelligent authentication scheme for web applications that is based on utilizing browser fingerprints to uniquely classify an authorized user from a fraudulent one.
 
-## Log:
+Log:
 
 IntelliAuth is a "Work in progress", right now I am able to classify data only on the basis of static values assignment to various IntelliAuth datafields.
 We plan to upgrade the system by auto-classification of dataset values by using learning approach rather than plain static assignments.
@@ -11,6 +11,6 @@ There are few good client side fingerprinting solutions available of which I fou
 
 IntelliAuth.js v1 consists of data values obtained from javascript navigator object and other js objects supported by most of the browsers. Ref : [MDN] (https://developer.mozilla.org/en-US/docs/DOM/window.navigator)
 
-## !IMP:
+!IMP:
 
 IntelliAuth consisits of 2 major modules, first the browser fingerprinting module (IntelliAuth.js) and second classification module written in C# and operates upon Oracle 11gXE RDB.
