@@ -5,7 +5,7 @@ IntelliAuth is an intelligent authentication scheme for web applications that is
 Log:
 
 IntelliAuth is a "Work in progress", right now I am able to classify data only on the basis of static values assignment to various IntelliAuth datafields.
-We plan to upgrade the system by auto-classification of dataset values by using learning approach rather than plain static assignments.
+We plan to upgrade the system by binary auto-classification of dataset values by using learning approach rather than plain static assignments.
 
 There are few good client side fingerprinting solutions available of which I found [carlo-jquery-browser-fingerprint] (https://github.com/carlo/jquery-browser-fingerprint) to be relatively simple and easy to understand, which I have also drawn ispiration from for my fingerprinting solution.
 
